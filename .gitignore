@@ -17,3 +17,13 @@ compass_artifact_wf-*.md
 .idea/
 CMakeCache.txt
 CMakeFiles/
+
+# Large generated artifacts (not for git)
+07302019.NASDAQ_ITCH50
+07302019.NASDAQ_ITCH50.gz
+sample_200mb.itch
+trades.csv
+trades_sample_200mb.csv
+full_day_run.log
+build_wsl/
+FlameGraph/

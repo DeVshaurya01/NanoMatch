@@ -83,6 +83,17 @@ corresponding section of `compass_artifact_wf-...text_markdown.md`.
 
 ---
 
+## `docs/` — Reports and Deliverables
+
+| File | Purpose |
+|---|---|
+| [docs/REPORT.md](docs/REPORT.md) | Performance Benchmark Report (FEC deliverable #2) |
+| [docs/SUBMISSION.md](docs/SUBMISSION.md) | Cover letter to mentors |
+| [docs/flame_combined.svg](docs/flame_combined.svg) | CPU flame graph (FEC deliverable #3) |
+| [docs/hardware.md](docs/hardware.md) | Hardware and toolchain specs |
+
+---
+
 ## Brick → file index
 
 | Brick | Title | Files |
